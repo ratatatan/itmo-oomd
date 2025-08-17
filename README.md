@@ -1,0 +1,8 @@
+[entry test](https://github.com/ratatatan/itmo-oomd/tree/entry-test)
+[kr1](https://github.com/ratatatan/itmo-oomd/tree/kr1)
+[lab1](https://github.com/ratatatan/itmo-oomd/tree/lab1)
+[lab2](https://github.com/ratatatan/itmo-oomd/tree/lab2)
+[prac1](https://github.com/ratatatan/itmo-oomd/tree/prac1)
+[prac2](https://github.com/ratatatan/itmo-oomd/tree/prac2)
+[prac3](https://github.com/ratatatan/itmo-oomd/tree/prac3)
+[prac4](https://github.com/ratatatan/itmo-oomd/tree/prac4)
